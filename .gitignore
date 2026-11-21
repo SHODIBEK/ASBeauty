@@ -1,0 +1,22 @@
+# Node
+node_modules/
+build/
+dist/
+zip/
+*.log
+npm-debug.log*
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Claude
+CLAUDE.md
+CLAUDE.local.md
+TASKS-components.md
+TASKS-pages.md
+.claude/
+design/
+reports/
